@@ -1,0 +1,249 @@
+help me find relevant resources	0
+recommend me relevant resources	0
+find relevant resources	0
+what are the steps to finding helpful resources?	0
+help me find suggested publications	0
+suggest me knowcovid-19 journals	0
+suggest me knowcovid-19 articles	0
+help me with knowcovid-19	0
+How can KnowCOVID-19 be useful for me?	0
+How is KnowCOVID-19 useful?	0
+benefits of KnowCOVID-19	0
+What are the benefits of KnowCOVID-19?	0
+How can this help me?	0
+How can KnowCovid-19 help me?	0
+help me with journal dataset	0
+journal dataset	0
+what is the journal dataset?	0
+what journals have already been collected?	0
+what articles have been collected?	0
+what papers have been collected?	0
+What journals have been collected?	0
+What are the journals collected?	0
+help me with meta-analysis	0
+level I	0
+level	0
+help me with systematic reviews	0
+meta-analysis	0
+systematic reviews	0
+level VII	0
+what is level VII?	0
+opinion	0
+expert opinion	0
+background information	0
+background information / expert opinion	0
+level II	0
+what is level II?	0
+critically appraised topics	0
+evidence synthesis	0
+critically-appraised topics	0
+critically-appraised topics [evidence synthesis]	0
+What does TopicModelRecommender do?	0
+TopicModelRecommend	0
+What does the TopicModelRecommender do?	0
+How can I use TopicModelRecommender?	0
+What is TopicModelRecommender?	0
+TopicModelRecommender	0
+systematic reviews definition	0
+what is the definition of systematic reviews?	0
+explain systematic reviews	0
+what are systematic reviews?	0
+define systematic reviews	0
+how do i identify quality papers?	0
+what is unfiltered information?	0
+what is filtered information?	0
+identify quality publications	0
+identify quality papers	0
+what is good quality data?	0
+what are good quality articles?	0
+what are good quality journals?	0
+what are good quality papers?	0
+quality papers	0
+unfiltered information	0
+filtered information	0
+filtered / unfiltered information	0
+What is Covid-19?	0
+Covid-19 is?	0
+Describe what covid-19 is?	0
+the coronavirus is?	0
+Describe the coronavirus	0
+What is covid-19	0
+The Coronavirus is?	0
+Help me understand the coronavirus	0
+What is the coronavirus?	0
+the coronavirus	0
+Covid-19	0
+Describe Covid-19	0
+what is covid-19?	0
+What is the Corona Virus?	0
+level IV	0
+level 4	0
+what is level IV?	0
+what are randomized control trials?	0
+what are randomized controlled trials?	0
+randomized control trials	0
+randomized controlled trials	0
+rcts	0
+rct	0
+randomized controlled trials (rcts)	0
+Tell me the temperature of today	0
+What is the temperature now?	0
+What is the current temperature?	0
+What is the weather like in	0
+Chicago	0
+What is the weather	0
+today	0
+How is the weather	0
+Who can die from getting Covid-19?	0
+Who is most at risk of dying with Coronavirus?	0
+who can die from getting covid?	0
+who is at risk of dying from covid	0
+who is most at risk?	0
+What group is endagered by Covid-19?	0
+What group is most at risk of dying with coronavirus	0
+Who does Covid-19 endanger?	0
+Who is endangered by Covid-19?	0
+Who is in danger of dying from covid-19?	0
+Who is most at risk to Covid 19?	0
+Who is most at risk of death with Covid-19?	0
+Who is most at risk with Covid-19?	0
+What group is most affected by Covid-19?	0
+Who does Covid-19 affect the most?	0
+Who can die from Covid-19?	0
+datasets	0
+Show me some datasets	0
+What datasets can be used	0
+Recommend me some datasets	0
+Suggest me some datasets for this	0
+Show me datasets that can be used	0
+What datasets can be accessed?	0
+Covid-19 spread	0
+How do I catch Covid-19?	0
+How is the corona virus spread?	0
+How is Covid-19 transmitted?	0
+How is Corona Virus transmitted?	0
+How do you get the Corona Virus?	0
+How do you contract Covid-19?	0
+How can Covid-19 be transmitted?	0
+How is Covid-19 Spread?	0
+Will	0
+Missouri	0
+have a rain	0
+tomorrow	0
+What is the current weather at	0
+What is the current temperature	0
+Tell me about the temperature of	0
+how can i filter information	0
+how many filters available?	0
+what are the filters available?	0
+tools	0
+Tool	0
+recommend me some tools	0
+tools for biomedical research	0
+Name some tools i can use	0
+What tools does OnTimeRecommend offer?	0
+Tools	0
+suggest me tools	0
+help me with tools	0
+recommend me some tools for covid19 prediction analysis	0
+Recommend me some tools for coronavirus diagnostic analysis	0
+smellRecommend me some tools for coronavirus diagnostic analysis	0
+smellRecommend me some tools for coronavirus diagnostic	0
+suggest me me some tools for coronavirus diagnostic	0
+What are some tools that can be used?	0
+Suggest me some tools available for this	0
+Recommend me some tools for this	0
+Help me with some tools for this	0
+KnowCOVID-19	0
+define KnowCOVID-19	0
+identify KnowCOVID-19	0
+What is KnowCOVID-19?	0
+level V	0
+what is level	0
+what is level V?	0
+help me with cohort studies	0
+what are cohort studies?	0
+what is a cohort study?	0
+cohort study	0
+cohort studies	0
+explain case-control study	0
+explain case control study	0
+case control study definition	0
+case-control study definition	0
+define case-control study?	0
+what is a case control study?	0
+what is a case-control study?	0
+define case control study	0
+hello	0
+just going to say hi	0
+heya	0
+hello hi	0
+howdy	0
+hey there	0
+hi there	0
+greetings	0
+hey	0
+long time no see	0
+lovely day isn't it	0
+I greet you	0
+hello again	0
+hello there	0
+a good day	0
+What is a coronavirus?	0
+What is a novel coronavirus?	0
+novel coronavirus	0
+what is a new coronavirus?	0
+What does novel coronavirus mean?	0
+Describe novel coronavirus	0
+What are coronaviruses?	0
+What is a novel Coronavirus?	0
+Novel Coronavirus	0
+What does novel Coronavirus mean?	0
+level III	0
+what is level III	0
+critically appraised articles	0
+critically-appraised articles	0
+critically appraised individual articles	0
+article synopses	0
+critically-appraised individual articles	0
+critically-appraised individual articles [article synopses]	0
+help me with levels of evidence based pyramid	0
+help me with levels of evidence	0
+evidence pyramid	0
+define levels of evidence pyramid	0
+What is the levels of evidence pyramid?	0
+Level of evidence	0
+Levels of evidence	0
+Level of evidence pyramid	0
+Levels of Evidence Pyramid	0
+What are symptoms of the corona virus?	0
+What are symptoms of Covid-19?	0
+Symptoms of the coronavirus	0
+What are some symptoms of catching Covid-19?	0
+Coronavirus symptoms	0
+Covid-19 symptoms	0
+What are the symptoms of Covid-19?	0
+Covid-19 Symptoms	0
+Show me symptoms of Covid-19	0
+case control studies case series/reports	0
+case-control studies case series/reports	0
+case-control study	0
+level VI	0
+what is level VI?	0
+case series	0
+case controlled studies case series/reports	0
+reports	0
+what are case series?	0
+what are case-controlled studies?	0
+case-controlled studies case series/reports	0
+Hello	0
+Hi	0
+Greetings!	0
+Hi, How is it going?	0
+How are you doing?	0
+Nice to meet you.	0
+How do you do?	0
+Hi, nice to meet you.	0
+It is a pleasure to meet you.	0
+Top of the morning to you!	0
+What's up?	0
